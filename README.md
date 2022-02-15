@@ -26,9 +26,9 @@ Chosen language: _Python_
 
 ## Work experience
 
-_2012-2021_ GKN Aerospace
+_2012-2021_ GKN Aerospace (UK)
   - Test Technician/QA
-  - Machine operator (automated/robotics)
+  - Manufacturing/Machine operator (automated/robotics/manual)
 
 ### Former Qualifications
 
