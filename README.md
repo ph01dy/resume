@@ -29,17 +29,20 @@ _2012-2021_ Aerospace Industry
   - Test technician within Quality Department
   - Machine setter (automated and robotics)
 
-## Qualifications
+## Former Qualifications
 
-
+_2021_ Google IT Automation course
+_2017_ Code Institute
 
 #### Interests
 
-Online security and privacy
-I have been an active user of platforms like 
+Network security and online privacy
+
+I have been an active user of platforms like
+  
   -_TryHackMe_ <script src="https://tryhackme.com/badge/377390"></script>
 
 
+  -_HackTheBox_ @ph01dy
 
-  -_HackTheBox_ <script src="https://app.hackthebox.com/profile/835941"></script>
-
+Also keeping up to date with recent development of blockchain projects :D
