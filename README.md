@@ -1,5 +1,7 @@
 # Janos Foldi
 
+![image-title-here](https://avatars.githubusercontent.com/u/38335083?s=96&v=4) {:class="img-responsive"}
+
 I am a motivated professional coming from the aerospace industry and now looking to re-skill and further
 develop my knowledge within IT. A self learner who is willing to take a dive into new technologies that
 shape our future.
@@ -14,12 +16,11 @@ Understanding of Network Automation and Software Development principles (NetDevO
 
 Experience using tools such as:
   - Linux 
-  - Ansible 
-  - Jenkins
-  - git
-  - virtualization
-  - containers
-  - command-line
+  - Ansible, Jenkins
+  - Git
+  - Virtualization
+  - Containers
+  - Command-line driven workflow
 
 Chosen language: _Python_
 
@@ -27,15 +28,15 @@ Chosen language: _Python_
 
 _2012-2021_ GKN Aerospace
   - Test Technician/QA
-  - Machine operator (automated and robotics)
+  - Machine operator (automated/robotics)
 
 ### Former Qualifications
 
-_2021-2022_ Open University (DevNetSkills) <br>
+_2021-2022_ Open University - DevNetSkills <br>
 _2021_ Google IT Automation <br>
-_2017_ Code Institute <br>
-_2009-2012_ Szekely Mihaly College (Szarvas, Hungary) <br>
-_2006-2009_ Peter Andras High School (Szeghalom, Hungary)
+_2017_ Code Institute - IT Fundamentals <br>
+_2009-2012_ Szekely Mihaly College - Joinery (Szarvas, Hungary) <br>
+_2006-2009_ Peter Andras High School - A-level (Szeghalom, Hungary)
 
 ##### Interests
 
