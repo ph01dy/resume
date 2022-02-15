@@ -25,12 +25,13 @@ Chosen language: _Python_
 
 ## Work experience
 
-_2012-2021_ Aerospace Industry
-  - Test technician within Quality Department
-  - Machine setter (automated and robotics)
+_2012-2021_ GKN Aerospace
+  - Test Technician/QA
+  - Machine operator (automated and robotics)
 
 ### Former Qualifications
 
+_2021-2022_ Open University (DevNetSkills) <br>
 _2021_ Google IT Automation <br>
 _2017_ Code Institute <br>
 _2009-2012_ Szekely Mihaly College (Szarvas, Hungary) <br>
