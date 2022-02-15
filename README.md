@@ -29,14 +29,16 @@ _2012-2021_ Aerospace Industry
   - Test technician within Quality Department
   - Machine setter (automated and robotics)
 
-## Former Qualifications
+### Former Qualifications
 
-_2021_ Google IT Automation course
-_2017_ Code Institute
+_2021_ Google IT Automation <br>
+_2017_ Code Institute <br>
+_2009-2012_ Szekely Mihaly College (Szarvas, Hungary) <br>
+_2006-2009_ Peter Andras High School (Szeghalom, Hungary)
 
-#### Interests
+##### Interests
 
-Network security and online privacy
+Network security and privacy preserving technologies
 
 I have been an active user of platforms like
   
@@ -46,3 +48,9 @@ I have been an active user of platforms like
   -_HackTheBox_ @ph01dy
 
 Also keeping up to date with recent development of blockchain projects :D
+
+###### Contacts
+
+Email: _dev_foldi@pm.me_
+
+
