@@ -47,7 +47,7 @@ I have been an active user of platforms like
   -_TryHackMe_ <script src="https://tryhackme.com/badge/377390"></script>
 
 
-  -_HackTheBox_ https://bit.ly/3LA2Ac0
+  -_HackTheBox_ [@ph01dy](https://bit.ly/3LA2Ac0)
 
 Also keeping up to date with recent development of blockchain projects :D
 
