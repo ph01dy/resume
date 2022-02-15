@@ -38,11 +38,13 @@ _2017_ Code Institute - IT Fundamentals <br>
 _2009-2012_ Szekely Mihaly College - Joinery (Szarvas, Hungary) <br>
 _2006-2009_ Peter Andras High School - A-level (Szeghalom, Hungary)
 
-##### Interests
+#### Interests
+
+Daily Linux user, mainly Arch and Debian...
 
 Network security and privacy preserving technologies
 
-I have been an active user of platforms like
+I have been an active on platforms like:
   
   -_TryHackMe_ <script src="https://tryhackme.com/badge/377390"></script>
 
