@@ -26,7 +26,12 @@ Chosen language: _Python_
 ## Work experience
 
 _2012-2021_ Aerospace Industry
-  - Test technician within Quality
+  - Test technician within Quality Department
+  - Machine setter (automated and robotics)
+
+## Qualifications
+
+
 
 #### Interests
 
