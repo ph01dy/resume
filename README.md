@@ -22,7 +22,7 @@ Experience using tools such as:
   - Containers
   - Command-line driven workflow
 
-Chosen language: _Python_
+Chosen languages: _Python, Bash_
 
 ## Work experience
 
