@@ -1,6 +1,6 @@
 # Janos Foldi
 
-![image-title-here](https://avatars.githubusercontent.com/u/38335083?s=96&v=4) {:class="img-responsive"}
+![profile](https://avatars.githubusercontent.com/u/38335083?s=96&v=4)
 
 I am a motivated professional coming from the aerospace industry and now looking to re-skill and further
 develop my knowledge within IT. A self learner who is willing to take a dive into new technologies that
