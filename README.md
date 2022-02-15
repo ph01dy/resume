@@ -7,6 +7,7 @@ shape our future.
 ## Technical experience
 
 _Currently studying for the DevNet Associate exam_
+
 Fundamental knowledge of networking protocols (TCP/IP, Routing, LAN/WAN, etc...
 
 
