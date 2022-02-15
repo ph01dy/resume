@@ -19,7 +19,7 @@ Experience using tools such as:
   - Ansible, Jenkins
   - Git
   - Virtualization
-  - Containers
+  - Docker containers
   - Command-line driven workflow
 
 Chosen languages: _Python, Bash_
