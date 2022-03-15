@@ -4,11 +4,11 @@
 
 I am a motivated professional coming from the aerospace industry and now looking to re-skill and further
 develop my knowledge within IT. A self learner who is willing to take a dive into new technologies that
-shape our future.
+shape our future. 
 
 ## Technical experience
 
-_Currently preparing for Cisco DevNet Associate exam_
+_Completed Open University's DevNetSkills course (preparing for vendor exam)_
 
 Fundamental knowledge of networking protocols (TCP/IP, Routing, LAN/WAN, etc...)
 
@@ -26,32 +26,35 @@ Chosen languages: _Python, Bash_
 
 ## Work experience
 
-_2012-2021_ GKN Aerospace (UK)
+_2022_ GKN Aerospace (UK)
   - Test Technician/QA
+     Non-destructive testing methods using ultrasound equipments, manual and automated quality testing of aerospace parts
+  
   - Manufacturing/Machine operator (automated/robotics/manual)
-
+    
+ 
 ### Former Qualifications
 
-_2021-2022_ Open University - DevNetSkills <br>
-_2021_ Google IT Automation <br>
+_2022_ Open University - DevNetSkills <br>
+_2021_ Google IT Automation course <br>
 _2017_ Code Institute - IT Fundamentals <br>
-_2009-2012_ Szekely Mihaly College - Joinery (Szarvas, Hungary) <br>
-_2006-2009_ Peter Andras High School - A-level (Szeghalom, Hungary)
+_2012_ Szekely Mihaly College - Joinery (Szarvas, Hungary) <br>
+_2009_ Peter Andras High School - A-level (Szeghalom, Hungary)
 
 #### Interests
 
 Daily Linux user, mainly Arch and Debian...
 
-Network security and privacy preserving technologies
+Learnig network security and applying privacy preserving technologies
 
-I have been an active on platforms like:
+I have been an active platforms like:
   
   -_TryHackMe_ <script src="https://tryhackme.com/badge/377390"></script>
 
 
   -_HackTheBox_ [@ph01dy](https://bit.ly/3LA2Ac0)
 
-Also keeping up to date with recent development of blockchain projects :D
+Also keeping up to date with recent development of blockchain and cryptocurrency projects
 
 ###### Contacts
 
