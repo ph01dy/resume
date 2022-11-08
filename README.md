@@ -38,8 +38,6 @@ _2022_ GKN Aerospace (UK)
 _2022_ Open University - DevNetSkills <br>
 _2021_ Google IT Automation course <br>
 _2017_ Code Institute - IT Fundamentals <br>
-_2012_ Szekely Mihaly College - Joinery (Szarvas, Hungary) <br>
-_2009_ Peter Andras High School - A-level (Szeghalom, Hungary)
 
 #### Interests
 
@@ -47,7 +45,7 @@ Daily Linux user, mainly Arch and Debian...
 
 Learnig network security and applying privacy preserving technologies
 
-I have been an active platforms like:
+I am active on:
   
   -_TryHackMe_ <script src="https://tryhackme.com/badge/377390"></script>
 
