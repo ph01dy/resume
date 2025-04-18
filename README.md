@@ -16,7 +16,6 @@ Understanding of Network Automation and Software Development principles (NetDevO
 
 Experience using tools such as:
   - Linux 
-  - Ansible, Jenkins
   - Git
   - Virtualization
   - Docker containers
@@ -26,7 +25,7 @@ Chosen languages: _Python, Bash_
 
 ## Work experience
 
-_2022_ GKN Aerospace (UK)
+_2012_-_2022_ GKN Aerospace (UK)
   - Test Technician/QA
      Non-destructive testing methods using ultrasound equipments, manual and automated quality testing of aerospace parts
   
