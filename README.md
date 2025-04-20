@@ -25,6 +25,8 @@ Chosen languages: _Python, Bash_
 
 ## Work experience
 
+_2022_-_current_ Self-employed/property maintenance
+
 _2012_-_2022_ GKN Aerospace (UK)
   - Test Technician/QA
      Non-destructive testing methods using ultrasound equipments, manual and automated quality testing of aerospace parts
@@ -48,13 +50,14 @@ I am active on:
   
   -_TryHackMe_ <script src="https://tryhackme.com/badge/377390"></script>
 
-
   -_HackTheBox_ [@ph01dy](https://bit.ly/3LA2Ac0)
 
-Also keeping up to date with recent development of blockchain and cryptocurrency projects
+  -_boot.dev_ https://www.boot.dev/u/clutteredemergency32
+
+Also keeping up to date with recent development of blockchain and cryptocurrency projects.
 
 ###### Contacts
 
-Email: _dev_foldi@pm.me_
+Email: _j.foldi@keemail.me_
 
 
